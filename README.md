@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Salequzzaman
 #### SQA Engineer
-![SQA Engineer](https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-9/149549312_2876844215891888_4912164897692409138_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=25quliz3S5gAX99TP5q&_nc_ht=scontent.fdac138-1.fna&oh=00_AfCEcxrf46_jUeCPc7ZqdD4LKWGfRofTnDUmghUbghe9LQ&oe=63C539AD)
+
 
 I am a self-motivated professional passionate about quality control. I bring to this position a hands-on approach in the testing of software systems. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC)
 
