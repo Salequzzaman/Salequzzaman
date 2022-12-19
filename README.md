@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="SQA" width="100%" height="300" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg">
 <h1 align="center">Hi 👋, I'm Salequzzaman Sunny</h1>
 <h3 align="center">A SQA Engineer from Bangladesh</h3>
-<img align="right" alt="SQA" width="400" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salequzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="salequzzaman" /> </p>
 
